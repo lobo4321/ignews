@@ -1,0 +1,8 @@
+{
+  "apiEndpoint": "https://ignews4320.prismic.io/api/v2",
+  "libraries": [
+    "@/slices"
+  ],
+  "_latest": "0.5.0",
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+}
