@@ -16,6 +16,7 @@ export const authOptions = {
       },
     }),
   ],
+  secret: 'dsaoijdasojdiosajdas',
   callbacks: {
     async session({ session, user, token }) {
       try {
